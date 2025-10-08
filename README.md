@@ -60,5 +60,5 @@ hotels-vienna/
    `pip install -r requirements.txt`
 3. Open the Jupyter Notebook in `analysis/`
 
-## Output
-A few summary statistics and one or two visualizations
+## Author
+  - **Abdullah Abdulrahim** - https://github.com/abdullahabrh
